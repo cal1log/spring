@@ -16,6 +16,8 @@
 
 ## 24 november 2021 - lesson 10
 
+## 30 november 2021 - lesson 11-12-13-14-15
+
 # Video Spring PildorasInformaticas
 
 [spring pildorasinformaticas](https://www.youtube.com/watch?v=kFIvslQQZ9k&list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm&index=1)
@@ -23,6 +25,8 @@
 ## lessons
 
 ## 24 november 2021 - lesson 1-2-3-4-5
+
+## 30 november 2021 - lesson 6-7-8-9
 
 
 
